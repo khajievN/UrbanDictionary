@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UrbanDicKotlin</string>
+
+    <string name="thumb_value">Vote : %2$d</string>
+    <string name="author_name">Author : %s</string>
+    <string name="word_written">Written on : %s</string>
+    <string name="networ_issue">Check your Network Status!!!</string>
+    <string name="unknown_error">Something went wrong please try again</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2338460116812594/1799160154</string>
+    <!--<string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>-->
+    <!--<string name="ad_app_id">ca-app-pub-2338460116812594~4689171089</string>-->
+    <string name="ad_app_id">ca-app-pub-2338460116812594~4689171089</string>
+
+</resources>

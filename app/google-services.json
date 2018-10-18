@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "526423868110",
+    "firebase_url": "https://urbandickotlin.firebaseio.com",
+    "project_id": "urbandickotlin",
+    "storage_bucket": "urbandickotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526423868110:android:101261d8479c83b0",
+        "android_client_info": {
+          "package_name": "com.everything4droid.urbandickotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526423868110-0luv6neopk0k49t1kjogni9497f0gqse.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.everything4droid.urbandickotlin",
+            "certificate_hash": "0b5619d60d1cddbef40853e7b7fd2ecc87834ef0"
+          }
+        },
+        {
+          "client_id": "526423868110-fsmd42cr4egq86rbt5q9e6ef6s0cok0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB63qtv5kWn6x0-FmQPRrcHBrR78g6Yx3A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526423868110-fsmd42cr4egq86rbt5q9e6ef6s0cok0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
